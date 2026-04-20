@@ -1,0 +1,170 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldBase has been called by com.google.inject.internal.aop.HiddenClassDefiner (file:/C:/Program%20Files/apache-maven-3.9.11/lib/guice-5.1.0-classes.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.inject.internal.aop.HiddenClassDefiner
+WARNING: sun.misc.Unsafe::staticFieldBase will be removed in a future release
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------< org.example:FSD-T-08 >------------------------
+[INFO] Building FSD-T-08 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.6.3:java (default-cli) @ FSD-T-08 ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.9.24/maven-resolver-util-1.9.24.pom
+Progress (1): 838 BProgress (1): 2.2 kBProgress (1): 2.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.9.24/maven-resolver-util-1.9.24.pom (2.2 kB at 4.8 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver/1.9.24/maven-resolver-1.9.24.pom
+Progress (1): 752 BProgress (1): 1.7 kBProgress (1): 3.7 kBProgress (1): 8.0 kBProgress (1): 9.9 kBProgress (1): 13 kB Progress (1): 18 kBProgress (1): 19 kBProgress (1): 22 kBProgress (1): 25 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver/1.9.24/maven-resolver-1.9.24.pom (25 kB at 366 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.9.24/maven-resolver-api-1.9.24.pom
+Progress (1): 835 BProgress (1): 2.0 kBProgress (1): 2.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.9.24/maven-resolver-api-1.9.24.pom (2.2 kB at 42 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.6.0/commons-exec-1.6.0.pom
+Progress (1): 757 BProgress (1): 1.7 kBProgress (1): 3.4 kBProgress (1): 5.6 kBProgress (1): 7.7 kBProgress (1): 11 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.6.0/commons-exec-1.6.0.pom (11 kB at 215 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/93/commons-parent-93.pom
+Progress (1): 700 BProgress (1): 1.6 kBProgress (1): 2.8 kBProgress (1): 4.3 kBProgress (1): 5.4 kBProgress (1): 7.7 kBProgress (1): 10 kB Progress (1): 11 kBProgress (1): 14 kBProgress (1): 16 kBProgress (1): 17 kBProgress (1): 20 kBProgress (1): 23 kBProgress (1): 24 kBProgress (1): 27 kBProgress (1): 30 kBProgress (1): 32 kBProgress (1): 37 kBProgress (1): 41 kBProgress (1): 43 kBProgress (1): 46 kBProgress (1): 49 kBProgress (1): 50 kBProgress (1): 53 kBProgress (1): 56 kBProgress (1): 58 kBProgress (1): 60 kBProgress (1): 63 kBProgress (1): 66 kBProgress (1): 70 kBProgress (1): 72 kBProgress (1): 73 kBProgress (1): 76 kBProgress (1): 79 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/93/commons-parent-93.pom (79 kB at 1.4 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.14.1/junit-bom-5.14.1.pom
+Progress (1): 908 BProgress (1): 2.2 kBProgress (1): 5.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.14.1/junit-bom-5.14.1.pom (5.7 kB at 118 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.pom
+Progress (1): 1.3 kBProgress (1): 2.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.pom (2.4 kB at 54 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.pom
+Progress (1): 1.1 kBProgress (1): 2.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.pom (2.8 kB at 58 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.pom
+Progress (1): 1.1 kBProgress (1): 2.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.pom (2.6 kB at 58 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.9.24/maven-resolver-util-1.9.24.jar
+Progress (1): 0.9/196 kBProgress (1): 2.3/196 kBProgress (1): 3.6/196 kBProgress (1): 5.0/196 kBProgress (1): 9.2/196 kBProgress (1): 13/196 kB Progress (1): 18/196 kBProgress (1): 22/196 kBProgress (1): 25/196 kBProgress (1): 29/196 kBProgress (1): 33/196 kBProgress (1): 37/196 kBProgress (1): 41/196 kBProgress (1): 46/196 kBProgress (1): 50/196 kBProgress (1): 54/196 kBProgress (1): 58/196 kBProgress (1): 63/196 kBProgress (1): 67/196 kBProgress (1): 71/196 kBProgress (1): 75/196 kBProgress (1): 80/196 kBProgress (1): 84/196 kBProgress (1): 88/196 kBProgress (1): 92/196 kBProgress (1): 96/196 kBProgress (1): 101/196 kBProgress (1): 105/196 kBProgress (1): 109/196 kBProgress (1): 113/196 kBProgress (1): 118/196 kBProgress (1): 122/196 kBProgress (1): 126/196 kBProgress (1): 130/196 kBProgress (1): 135/196 kBProgress (1): 139/196 kBProgress (1): 143/196 kBProgress (1): 147/196 kBProgress (1): 151/196 kBProgress (1): 156/196 kBProgress (1): 160/196 kBProgress (1): 164/196 kBProgress (1): 168/196 kBProgress (1): 173/196 kBProgress (1): 189/196 kBProgress (1): 196 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-util/1.9.24/maven-resolver-util-1.9.24.jar (196 kB at 2.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.9.24/maven-resolver-api-1.9.24.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.6.0/commons-exec-1.6.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.jar
+Progress (1): 7.7/52 kBProgress (1): 16/52 kB Progress (1): 32/52 kBProgress (1): 49/52 kBProgress (1): 52 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.jar (52 kB at 1.1 MB/s)
+Progress (1): 0.9/157 kBProgress (1): 2.3/157 kBProgress (1): 3.6/157 kBProgress (1): 4.1/157 kBProgress (1): 5.5/157 kBProgress (1): 6.8/157 kBProgress (1): 8.2/157 kBProgress (1): 9.6/157 kBProgress (1): 11/157 kB Progress (1): 12/157 kBProgress (1): 14/157 kBProgress (1): 15/157 kBProgress (1): 16/157 kBProgress (1): 18/157 kBProgress (1): 19/157 kBProgress (1): 21/157 kBProgress (1): 22/157 kBProgress (1): 23/157 kBProgress (1): 25/157 kBProgress (1): 26/157 kBProgress (1): 27/157 kBProgress (1): 29/157 kBProgress (1): 30/157 kBProgress (1): 31/157 kBProgress (1): 33/157 kBProgress (1): 34/157 kBProgress (1): 36/157 kBProgress (1): 37/157 kBProgress (1): 38/157 kBProgress (1): 40/157 kBProgress (1): 41/157 kBProgress (1): 42/157 kBProgress (1): 44/157 kBProgress (1): 45/157 kBProgress (1): 47/157 kBProgress (1): 48/157 kBProgress (1): 49/157 kBProgress (1): 51/157 kBProgress (1): 52/157 kBProgress (1): 53/157 kBProgress (1): 55/157 kBProgress (1): 59/157 kBProgress (1): 63/157 kBProgress (2): 63/157 kB | 0.9/75 kBProgress (2): 63/157 kB | 2.3/75 kBProgress (2): 63/157 kB | 3.6/75 kBProgress (2): 63/157 kB | 5.0/75 kBProgress (2): 63/157 kB | 6.4/75 kBProgress (2): 63/157 kB | 7.7/75 kBProgress (2): 63/157 kB | 8.2/75 kBProgress (2): 63/157 kB | 9.6/75 kBProgress (2): 63/157 kB | 11/75 kB Progress (2): 63/157 kB | 12/75 kBProgress (2): 63/157 kB | 14/75 kBProgress (2): 63/157 kB | 15/75 kBProgress (2): 63/157 kB | 16/75 kBProgress (2): 63/157 kB | 18/75 kBProgress (2): 63/157 kB | 19/75 kBProgress (2): 63/157 kB | 21/75 kBProgress (2): 63/157 kB | 22/75 kBProgress (2): 63/157 kB | 23/75 kBProgress (2): 63/157 kB | 25/75 kBProgress (2): 63/157 kB | 26/75 kBProgress (2): 63/157 kB | 27/75 kBProgress (2): 63/157 kB | 29/75 kBProgress (2): 63/157 kB | 30/75 kBProgress (2): 63/157 kB | 31/75 kBProgress (2): 63/157 kB | 33/75 kBProgress (2): 63/157 kB | 34/75 kBProgress (2): 63/157 kB | 36/75 kBProgress (2): 63/157 kB | 37/75 kBProgress (2): 63/157 kB | 38/75 kBProgress (2): 63/157 kB | 40/75 kBProgress (2): 63/157 kB | 41/75 kBProgress (2): 63/157 kB | 42/75 kBProgress (2): 63/157 kB | 44/75 kBProgress (2): 63/157 kB | 45/75 kBProgress (2): 63/157 kB | 47/75 kBProgress (2): 63/157 kB | 48/75 kBProgress (2): 63/157 kB | 49/75 kBProgress (2): 63/157 kB | 51/75 kBProgress (2): 63/157 kB | 52/75 kBProgress (2): 63/157 kB | 53/75 kBProgress (2): 63/157 kB | 55/75 kBProgress (2): 63/157 kB | 59/75 kBProgress (3): 63/157 kB | 59/75 kB | 0.9/126 kBProgress (3): 63/157 kB | 59/75 kB | 2.3/126 kBProgress (3): 63/157 kB | 59/75 kB | 3.6/126 kBProgress (3): 63/157 kB | 59/75 kB | 5.0/126 kBProgress (3): 63/157 kB | 59/75 kB | 6.4/126 kBProgress (3): 63/157 kB | 59/75 kB | 7.7/126 kBProgress (3): 63/157 kB | 59/75 kB | 9.1/126 kBProgress (3): 63/157 kB | 59/75 kB | 10/126 kB Progress (3): 63/157 kB | 59/75 kB | 12/126 kBProgress (3): 63/157 kB | 59/75 kB | 13/126 kBProgress (3): 63/157 kB | 59/75 kB | 15/126 kBProgress (3): 63/157 kB | 59/75 kB | 16/126 kBProgress (3): 63/157 kB | 59/75 kB | 17/126 kBProgress (3): 63/157 kB | 59/75 kB | 19/126 kBProgress (3): 63/157 kB | 59/75 kB | 20/126 kBProgress (3): 63/157 kB | 59/75 kB | 21/126 kBProgress (3): 63/157 kB | 59/75 kB | 23/126 kBProgress (3): 63/157 kB | 59/75 kB | 24/126 kBProgress (3): 63/157 kB | 59/75 kB | 26/126 kBProgress (3): 63/157 kB | 59/75 kB | 27/126 kBProgress (3): 63/157 kB | 59/75 kB | 28/126 kBProgress (3): 63/157 kB | 59/75 kB | 30/126 kBProgress (3): 63/157 kB | 59/75 kB | 31/126 kBProgress (3): 63/157 kB | 59/75 kB | 32/126 kBProgress (3): 63/157 kB | 59/75 kB | 34/126 kBProgress (3): 63/157 kB | 59/75 kB | 35/126 kBProgress (3): 63/157 kB | 59/75 kB | 36/126 kBProgress (3): 63/157 kB | 59/75 kB | 38/126 kBProgress (3): 63/157 kB | 59/75 kB | 39/126 kBProgress (3): 63/157 kB | 59/75 kB | 41/126 kBProgress (3): 63/157 kB | 59/75 kB | 42/126 kBProgress (3): 63/157 kB | 59/75 kB | 43/126 kBProgress (3): 63/157 kB | 59/75 kB | 45/126 kBProgress (3): 63/157 kB | 59/75 kB | 46/126 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 0.9/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 2.3/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 3.6/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 5.0/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 6.4/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 7.7/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 9.1/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 10/69 kB Progress (4): 63/157 kB | 59/75 kB | 46/126 kB | 12/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 13/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 14/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 16/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 17/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 18/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 20/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 21/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 22/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 24/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 25/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 27/69 kBProgress (4): 63/157 kB | 59/75 kB | 46/126 kB | 28/69 kBProgress (4): 63/157 kB | 59/75 kB | 47/126 kB | 28/69 kBProgress (4): 63/157 kB | 59/75 kB | 47/126 kB | 29/69 kBProgress (4): 63/157 kB | 59/75 kB | 49/126 kB | 29/69 kBProgress (4): 63/157 kB | 59/75 kB | 49/126 kB | 31/69 kBProgress (4): 63/157 kB | 59/75 kB | 50/126 kB | 31/69 kBProgress (4): 63/157 kB | 59/75 kB | 50/126 kB | 32/69 kBProgress (4): 63/157 kB | 59/75 kB | 52/126 kB | 32/69 kBProgress (4): 63/157 kB | 59/75 kB | 52/126 kB | 33/69 kBProgress (4): 63/157 kB | 59/75 kB | 53/126 kB | 33/69 kBProgress (4): 63/157 kB | 59/75 kB | 53/126 kB | 35/69 kBProgress (4): 63/157 kB | 59/75 kB | 54/126 kB | 35/69 kBProgress (4): 63/157 kB | 59/75 kB | 54/126 kB | 36/69 kBProgress (4): 63/157 kB | 59/75 kB | 56/126 kB | 36/69 kBProgress (4): 63/157 kB | 59/75 kB | 56/126 kB | 38/69 kBProgress (4): 63/157 kB | 59/75 kB | 57/126 kB | 38/69 kBProgress (4): 63/157 kB | 59/75 kB | 57/126 kB | 39/69 kBProgress (4): 63/157 kB | 59/75 kB | 57/126 kB | 40/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 40/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 42/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 43/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 44/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 46/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 47/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 48/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 50/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 51/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 53/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 54/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 55/69 kBProgress (4): 63/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 67/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 72/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 76/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 80/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 84/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 89/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 93/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 97/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 101/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 105/157 kB | 59/75 kB | 62/126 kB | 60/69 kBProgress (4): 105/157 kB | 63/75 kB | 62/126 kB | 60/69 kBProgress (4): 110/157 kB | 63/75 kB | 62/126 kB | 60/69 kBProgress (4): 110/157 kB | 67/75 kB | 62/126 kB | 60/69 kBProgress (4): 110/157 kB | 72/75 kB | 62/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 62/126 kB | 60/69 kB   Progress (4): 110/157 kB | 75 kB | 66/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 70/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 74/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 78/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 83/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 87/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 91/126 kB | 60/69 kBProgress (4): 110/157 kB | 75 kB | 91/126 kB | 64/69 kBProgress (4): 110/157 kB | 75 kB | 95/126 kB | 64/69 kBProgress (4): 110/157 kB | 75 kB | 100/126 kB | 64/69 kBProgress (4): 110/157 kB | 75 kB | 100/126 kB | 68/69 kBProgress (4): 110/157 kB | 75 kB | 100/126 kB | 69 kB                                                        Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.jar (75 kB at 466 kB/s)
+Progress (3): 110/157 kB | 104/126 kB | 69 kBProgress (3): 110/157 kB | 108/126 kB | 69 kBProgress (3): 110/157 kB | 112/126 kB | 69 kBProgress (3): 110/157 kB | 117/126 kB | 69 kBProgress (3): 110/157 kB | 121/126 kB | 69 kBProgress (3): 110/157 kB | 125/126 kB | 69 kBProgress (3): 110/157 kB | 126 kB | 69 kB                                             Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.6.0/commons-exec-1.6.0.jar (69 kB at 415 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar (126 kB at 743 kB/s)
+Progress (1): 114/157 kBProgress (1): 118/157 kBProgress (1): 122/157 kBProgress (1): 127/157 kBProgress (1): 131/157 kBProgress (1): 135/157 kBProgress (1): 135/157 kBProgress (1): 139/157 kBProgress (1): 144/157 kBProgress (1): 148/157 kBProgress (1): 152/157 kBProgress (1): 156/157 kBProgress (1): 157 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.9.24/maven-resolver-api-1.9.24.jar (157 kB at 819 kB/s)
+[WARNING] 
+org.springframework.beans.factory.BeanDefinitionStoreException: Incompatible class format in file [C:\Users\Dhanush VR\IdeaProjects\FSD-T-08\target\classes\com\employee\main\MainApp.class]: set system property 'spring.classformat.ignore' to 'true' if you mean to ignore such files during classpath scanning
+    at org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.scanCandidateComponents (ClassPathScanningCandidateComponentProvider.java:504)
+    at org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents (ClassPathScanningCandidateComponentProvider.java:351)
+    at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan (ClassPathBeanDefinitionScanner.java:277)
+    at org.springframework.context.annotation.ComponentScanBeanDefinitionParser.parse (ComponentScanBeanDefinitionParser.java:90)
+    at org.springframework.beans.factory.xml.NamespaceHandlerSupport.parse (NamespaceHandlerSupport.java:74)
+    at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement (BeanDefinitionParserDelegate.java:1390)
+    at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement (BeanDefinitionParserDelegate.java:1370)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.parseBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:178)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.doRegisterBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:149)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.registerBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:96)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.registerBeanDefinitions (XmlBeanDefinitionReader.java:520)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions (XmlBeanDefinitionReader.java:400)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions (XmlBeanDefinitionReader.java:347)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions (XmlBeanDefinitionReader.java:319)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:184)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:220)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:191)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:253)
+    at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions (AbstractXmlApplicationContext.java:130)
+    at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions (AbstractXmlApplicationContext.java:95)
+    at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory (AbstractRefreshableApplicationContext.java:130)
+    at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory (AbstractApplicationContext.java:713)
+    at org.springframework.context.support.AbstractApplicationContext.refresh (AbstractApplicationContext.java:595)
+    at org.springframework.context.support.ClassPathXmlApplicationContext.<init> (ClassPathXmlApplicationContext.java:144)
+    at org.springframework.context.support.ClassPathXmlApplicationContext.<init> (ClassPathXmlApplicationContext.java:85)
+    at com.employee.main.MainApp.main (MainApp.java:11)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:104)
+    at java.lang.reflect.Method.invoke (Method.java:565)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod (AbstractExecJavaBase.java:402)
+    at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod (ExecJavaMojo.java:142)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader (AbstractExecJavaBase.java:377)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0 (AbstractExecJavaBase.java:287)
+    at java.lang.Thread.run (Thread.java:1474)
+Caused by: org.springframework.core.type.classreading.ClassFormatException: ASM ClassReader failed to parse class file - probably due to a new Java class file version that is not supported yet. Consider compiling with a lower '-target' or upgrade your framework version. Affected class: file [C:\Users\Dhanush VR\IdeaProjects\FSD-T-08\target\classes\com\employee\main\MainApp.class]
+    at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader (SimpleMetadataReader.java:59)
+    at org.springframework.core.type.classreading.SimpleMetadataReader.<init> (SimpleMetadataReader.java:48)
+    at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader (SimpleMetadataReaderFactory.java:103)
+    at org.springframework.core.type.classreading.CachingMetadataReaderFactory.getMetadataReader (CachingMetadataReaderFactory.java:122)
+    at org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.scanCandidateComponents (ClassPathScanningCandidateComponentProvider.java:470)
+    at org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents (ClassPathScanningCandidateComponentProvider.java:351)
+    at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan (ClassPathBeanDefinitionScanner.java:277)
+    at org.springframework.context.annotation.ComponentScanBeanDefinitionParser.parse (ComponentScanBeanDefinitionParser.java:90)
+    at org.springframework.beans.factory.xml.NamespaceHandlerSupport.parse (NamespaceHandlerSupport.java:74)
+    at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement (BeanDefinitionParserDelegate.java:1390)
+    at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement (BeanDefinitionParserDelegate.java:1370)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.parseBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:178)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.doRegisterBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:149)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.registerBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:96)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.registerBeanDefinitions (XmlBeanDefinitionReader.java:520)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions (XmlBeanDefinitionReader.java:400)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions (XmlBeanDefinitionReader.java:347)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions (XmlBeanDefinitionReader.java:319)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:184)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:220)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:191)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:253)
+    at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions (AbstractXmlApplicationContext.java:130)
+    at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions (AbstractXmlApplicationContext.java:95)
+    at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory (AbstractRefreshableApplicationContext.java:130)
+    at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory (AbstractApplicationContext.java:713)
+    at org.springframework.context.support.AbstractApplicationContext.refresh (AbstractApplicationContext.java:595)
+    at org.springframework.context.support.ClassPathXmlApplicationContext.<init> (ClassPathXmlApplicationContext.java:144)
+    at org.springframework.context.support.ClassPathXmlApplicationContext.<init> (ClassPathXmlApplicationContext.java:85)
+    at com.employee.main.MainApp.main (MainApp.java:11)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:104)
+    at java.lang.reflect.Method.invoke (Method.java:565)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod (AbstractExecJavaBase.java:402)
+    at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod (ExecJavaMojo.java:142)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader (AbstractExecJavaBase.java:377)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0 (AbstractExecJavaBase.java:287)
+    at java.lang.Thread.run (Thread.java:1474)
+Caused by: java.lang.IllegalArgumentException: Unsupported class file major version 69
+    at org.springframework.asm.ClassReader.<init> (ClassReader.java:199)
+    at org.springframework.asm.ClassReader.<init> (ClassReader.java:180)
+    at org.springframework.asm.ClassReader.<init> (ClassReader.java:166)
+    at org.springframework.asm.ClassReader.<init> (ClassReader.java:287)
+    at org.springframework.core.type.classreading.SimpleMetadataReader.getClassReader (SimpleMetadataReader.java:56)
+    at org.springframework.core.type.classreading.SimpleMetadataReader.<init> (SimpleMetadataReader.java:48)
+    at org.springframework.core.type.classreading.SimpleMetadataReaderFactory.getMetadataReader (SimpleMetadataReaderFactory.java:103)
+    at org.springframework.core.type.classreading.CachingMetadataReaderFactory.getMetadataReader (CachingMetadataReaderFactory.java:122)
+    at org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.scanCandidateComponents (ClassPathScanningCandidateComponentProvider.java:470)
+    at org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents (ClassPathScanningCandidateComponentProvider.java:351)
+    at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan (ClassPathBeanDefinitionScanner.java:277)
+    at org.springframework.context.annotation.ComponentScanBeanDefinitionParser.parse (ComponentScanBeanDefinitionParser.java:90)
+    at org.springframework.beans.factory.xml.NamespaceHandlerSupport.parse (NamespaceHandlerSupport.java:74)
+    at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement (BeanDefinitionParserDelegate.java:1390)
+    at org.springframework.beans.factory.xml.BeanDefinitionParserDelegate.parseCustomElement (BeanDefinitionParserDelegate.java:1370)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.parseBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:178)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.doRegisterBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:149)
+    at org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader.registerBeanDefinitions (DefaultBeanDefinitionDocumentReader.java:96)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.registerBeanDefinitions (XmlBeanDefinitionReader.java:520)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions (XmlBeanDefinitionReader.java:400)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions (XmlBeanDefinitionReader.java:347)
+    at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions (XmlBeanDefinitionReader.java:319)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:184)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:220)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:191)
+    at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions (AbstractBeanDefinitionReader.java:253)
+    at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions (AbstractXmlApplicationContext.java:130)
+    at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions (AbstractXmlApplicationContext.java:95)
+    at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory (AbstractRefreshableApplicationContext.java:130)
+    at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory (AbstractApplicationContext.java:713)
+    at org.springframework.context.support.AbstractApplicationContext.refresh (AbstractApplicationContext.java:595)
+    at org.springframework.context.support.ClassPathXmlApplicationContext.<init> (ClassPathXmlApplicationContext.java:144)
+    at org.springframework.context.support.ClassPathXmlApplicationContext.<init> (ClassPathXmlApplicationContext.java:85)
+    at com.employee.main.MainApp.main (MainApp.java:11)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke (DirectMethodHandleAccessor.java:104)
+    at java.lang.reflect.Method.invoke (Method.java:565)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod (AbstractExecJavaBase.java:402)
+    at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod (ExecJavaMojo.java:142)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader (AbstractExecJavaBase.java:377)
+    at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0 (AbstractExecJavaBase.java:287)
+    at java.lang.Thread.run (Thread.java:1474)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.313 s
+[INFO] Finished at: 2026-03-17T17:54:16+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.6.3:java (default-cli) on project FSD-T-08: An exception occurred while executing the Java class. Incompatible class format in file [C:\Users\Dhanush VR\IdeaProjects\FSD-T-08\target\classes\com\employee\main\MainApp.class]: set system property 'spring.classformat.ignore' to 'true' if you mean to ignore such files during classpath scanning: ASM ClassReader failed to parse class file - probably due to a new Java class file version that is not supported yet. Consider compiling with a lower '-target' or upgrade your framework version. Affected class: file [C:\Users\Dhanush VR\IdeaProjects\FSD-T-08\target\classes\com\employee\main\MainApp.class]: Unsupported class file major version 69 -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
